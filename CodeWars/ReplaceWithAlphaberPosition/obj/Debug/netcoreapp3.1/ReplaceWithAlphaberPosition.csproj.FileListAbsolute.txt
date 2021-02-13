@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.exe
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.dll
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\bin\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.pdb
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.dll
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.pdb
+C:\Users\507\OneDrive\Code\Unfinished\ReplaceWithAlphaberPosition\obj\Debug\netcoreapp3.1\ReplaceWithAlphaberPosition.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\bin\Debug\netcoreapp3.1\SquareEveryDigit.exe
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\bin\Debug\netcoreapp3.1\SquareEveryDigit.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\bin\Debug\netcoreapp3.1\SquareEveryDigit.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\bin\Debug\netcoreapp3.1\SquareEveryDigit.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\bin\Debug\netcoreapp3.1\SquareEveryDigit.dll
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\bin\Debug\netcoreapp3.1\SquareEveryDigit.pdb
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\obj\Debug\netcoreapp3.1\SquareEveryDigit.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\obj\Debug\netcoreapp3.1\SquareEveryDigit.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\obj\Debug\netcoreapp3.1\SquareEveryDigit.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\obj\Debug\netcoreapp3.1\SquareEveryDigit.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\obj\Debug\netcoreapp3.1\SquareEveryDigit.dll
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\obj\Debug\netcoreapp3.1\SquareEveryDigit.pdb
+C:\Users\507\OneDrive\Code\Unfinished\SquareEveryDigit\obj\Debug\netcoreapp3.1\SquareEveryDigit.genruntimeconfig.cache
