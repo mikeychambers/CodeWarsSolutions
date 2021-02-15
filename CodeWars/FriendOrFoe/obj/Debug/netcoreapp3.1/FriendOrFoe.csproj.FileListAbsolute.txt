@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\obj\Debug\netcoreapp3.1\FriendOrFoe.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\obj\Debug\netcoreapp3.1\FriendOrFoe.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\obj\Debug\netcoreapp3.1\FriendOrFoe.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\obj\Debug\netcoreapp3.1\FriendOrFoe.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\bin\Debug\netcoreapp3.1\FriendOrFoe.exe
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\bin\Debug\netcoreapp3.1\FriendOrFoe.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\bin\Debug\netcoreapp3.1\FriendOrFoe.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\bin\Debug\netcoreapp3.1\FriendOrFoe.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\bin\Debug\netcoreapp3.1\FriendOrFoe.dll
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\bin\Debug\netcoreapp3.1\FriendOrFoe.pdb
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\obj\Debug\netcoreapp3.1\FriendOrFoe.dll
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\obj\Debug\netcoreapp3.1\FriendOrFoe.pdb
+C:\Users\507\OneDrive\Code\Unfinished\FriendOrFoe\obj\Debug\netcoreapp3.1\FriendOrFoe.genruntimeconfig.cache
