@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\bin\Debug\netcoreapp3.1\RemoveLowestValue.exe
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\bin\Debug\netcoreapp3.1\RemoveLowestValue.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\bin\Debug\netcoreapp3.1\RemoveLowestValue.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\bin\Debug\netcoreapp3.1\RemoveLowestValue.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\bin\Debug\netcoreapp3.1\RemoveLowestValue.dll
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\bin\Debug\netcoreapp3.1\RemoveLowestValue.pdb
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\obj\Debug\netcoreapp3.1\RemoveLowestValue.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\obj\Debug\netcoreapp3.1\RemoveLowestValue.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\obj\Debug\netcoreapp3.1\RemoveLowestValue.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\obj\Debug\netcoreapp3.1\RemoveLowestValue.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\obj\Debug\netcoreapp3.1\RemoveLowestValue.dll
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\obj\Debug\netcoreapp3.1\RemoveLowestValue.pdb
+C:\Users\507\OneDrive\Code\Unfinished\RemoveLowestValue\obj\Debug\netcoreapp3.1\RemoveLowestValue.genruntimeconfig.cache
