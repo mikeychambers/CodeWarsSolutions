@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\bin\Debug\netcoreapp3.1\FindLengthOfShortestWord.exe
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\bin\Debug\netcoreapp3.1\FindLengthOfShortestWord.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\bin\Debug\netcoreapp3.1\FindLengthOfShortestWord.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\bin\Debug\netcoreapp3.1\FindLengthOfShortestWord.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\bin\Debug\netcoreapp3.1\FindLengthOfShortestWord.dll
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\bin\Debug\netcoreapp3.1\FindLengthOfShortestWord.pdb
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\obj\Debug\netcoreapp3.1\FindLengthOfShortestWord.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\obj\Debug\netcoreapp3.1\FindLengthOfShortestWord.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\obj\Debug\netcoreapp3.1\FindLengthOfShortestWord.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\obj\Debug\netcoreapp3.1\FindLengthOfShortestWord.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\obj\Debug\netcoreapp3.1\FindLengthOfShortestWord.dll
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\obj\Debug\netcoreapp3.1\FindLengthOfShortestWord.pdb
+C:\Users\507\OneDrive\Code\Unfinished\FindLengthOfShortestWord\obj\Debug\netcoreapp3.1\FindLengthOfShortestWord.genruntimeconfig.cache
