@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\bin\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.exe
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\bin\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\bin\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\bin\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\bin\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.dll
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\bin\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.pdb
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\obj\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\obj\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\obj\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\obj\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\obj\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.dll
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\obj\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.pdb
+C:\Users\507\OneDrive\Code\Unfinished\SumOfTwoLowestIntegers\obj\Debug\netcoreapp3.1\SumOfTwoLowestIntegers.genruntimeconfig.cache
