@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\bin\Debug\netcoreapp3.1\SumOfMultiples.exe
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\bin\Debug\netcoreapp3.1\SumOfMultiples.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\bin\Debug\netcoreapp3.1\SumOfMultiples.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\bin\Debug\netcoreapp3.1\SumOfMultiples.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\bin\Debug\netcoreapp3.1\SumOfMultiples.dll
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\bin\Debug\netcoreapp3.1\SumOfMultiples.pdb
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\obj\Debug\netcoreapp3.1\SumOfMultiples.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\obj\Debug\netcoreapp3.1\SumOfMultiples.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\obj\Debug\netcoreapp3.1\SumOfMultiples.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\obj\Debug\netcoreapp3.1\SumOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\obj\Debug\netcoreapp3.1\SumOfMultiples.dll
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\obj\Debug\netcoreapp3.1\SumOfMultiples.pdb
+C:\Users\507\OneDrive\Code\Unfinished\SumOfMultiples\obj\Debug\netcoreapp3.1\SumOfMultiples.genruntimeconfig.cache
