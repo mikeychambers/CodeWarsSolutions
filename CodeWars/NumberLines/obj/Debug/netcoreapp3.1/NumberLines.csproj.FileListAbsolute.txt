@@ -1,0 +1,13 @@
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\bin\Debug\netcoreapp3.1\NumberLines.exe
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\bin\Debug\netcoreapp3.1\NumberLines.deps.json
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\bin\Debug\netcoreapp3.1\NumberLines.runtimeconfig.json
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\bin\Debug\netcoreapp3.1\NumberLines.runtimeconfig.dev.json
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\bin\Debug\netcoreapp3.1\NumberLines.dll
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\bin\Debug\netcoreapp3.1\NumberLines.pdb
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\obj\Debug\netcoreapp3.1\NumberLines.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\obj\Debug\netcoreapp3.1\NumberLines.AssemblyInfoInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\obj\Debug\netcoreapp3.1\NumberLines.AssemblyInfo.cs
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\obj\Debug\netcoreapp3.1\NumberLines.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\obj\Debug\netcoreapp3.1\NumberLines.dll
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\obj\Debug\netcoreapp3.1\NumberLines.pdb
+C:\Users\507\OneDrive\Code\Unfinished\NumberLines\obj\Debug\netcoreapp3.1\NumberLines.genruntimeconfig.cache
