@@ -1,0 +1,16 @@
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\bin\Debug\net5.0\DecipherThis.exe
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\bin\Debug\net5.0\DecipherThis.deps.json
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\bin\Debug\net5.0\DecipherThis.runtimeconfig.json
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\bin\Debug\net5.0\DecipherThis.runtimeconfig.dev.json
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\bin\Debug\net5.0\DecipherThis.dll
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\bin\Debug\net5.0\ref\DecipherThis.dll
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\bin\Debug\net5.0\DecipherThis.pdb
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.csproj.AssemblyReference.cache
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.AssemblyInfoInputs.cache
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.AssemblyInfo.cs
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.csproj.CoreCompileInputs.cache
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.dll
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\ref\DecipherThis.dll
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.pdb
+C:\Users\mikec\source\repos\DecipherThis\DecipherThis\obj\Debug\net5.0\DecipherThis.genruntimeconfig.cache
